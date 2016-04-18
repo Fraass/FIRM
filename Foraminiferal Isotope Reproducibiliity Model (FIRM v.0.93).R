@@ -44,7 +44,7 @@
     ##'mielke' Cultured Globorotalia menardii (Thermocline) 2001 [in Spero et al2003]
     ##'spero' Cultured Globigerinoides sacculifer (mixed layer-High light) [in Spero et al2003]
     ##'kim&oneil' Synthetic Calcite 1997 [reformulated by Bemis et al 1998]
-    ##'lynch-stieglitz' Insitu Cibicidoides & Planulina [arraged by Cramer et al 2011]
+    ##'lynch-stieglitz' Insitu Cibicidoides & Planulina [arranged by Cramer et al 2011]
 
 ## Mass varies? ##
   mvar<-20
