@@ -1,5 +1,5 @@
 # FIRM
-#Foraminiferal Isotope Reproduciblity Model (FIRM)
+#Foraminiferal Isotope Reproduciblity Model
 
 Citations for this model should go to Fraass & Lowery (Submitted to Paleoceanography)
 
