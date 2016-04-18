@@ -1,11 +1,11 @@
-### Setup file for Fraass & Lowery Planktic Isotope Model ###
+### Setup file for Fraass & Lowery Foraminiferal Isotope Reproducibility Model (FIRM) ###
   # This file needs to be run prior to running the model.
   # This file will install the required package (ncdf) to download the Levitus dataset, the raw data
   # that the model runs on.
   # It also does a little big of transformation of that dataset, simply to be used more simply in the model.
   # This _does_ need to have access to the internet to download the files which are 
   # on the NOAA FTP site. 
-  # After this file is run, Planktic Isotope Model (v.#.#).R should run fine.
+  # After this file is run, FIRM (v.0.93).R should run fine.
 
 
 
