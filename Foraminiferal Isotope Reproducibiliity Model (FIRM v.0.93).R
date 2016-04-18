@@ -5,7 +5,7 @@
 #2-Present Affiliation: University of Texas, Institute for Geophysics
 
 
-########Number of Repititions######
+########Number of Repetitions######
 10000->reps
 
 
