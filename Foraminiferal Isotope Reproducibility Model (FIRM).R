@@ -84,7 +84,7 @@
     #parameter weights is not used a single season model run
 
 #Machine Error
-  macer<-0..09 
+  macer<-0.07 
     #Suggested value: 1sigma error = 0.07 
   
 
