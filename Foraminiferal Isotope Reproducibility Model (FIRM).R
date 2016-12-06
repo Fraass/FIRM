@@ -1,5 +1,5 @@
 ##Planktic Foram Isotope Reproducability##
-#A. J. Fraass(1,2) & C. M. Lowery(1,3),  In Prep.
+#A. J. Fraass(1,2) & C. M. Lowery(1,3),  In Revision
 #1-University of Massachussetts - Amherst, Department of Geosciences
 #2-Present Affiliation: Smithsonian Institution, National Museum of Natural History, Department of Paleobiology
 #2-Present Affiliation: University of Texas, Institute for Geophysics
